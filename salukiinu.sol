@@ -2,10 +2,8 @@
 
 /**
    #Saluki inu(salukiinu)
-   2% fee auto add to the liquidity pool
-   3% distribute to holders
-   5% to charity wallet
-   ttl supply = 1000000000000
+   4% distribute to holders
+   total supply = 1000000000000
    decimals 9
 */
 
